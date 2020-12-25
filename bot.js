@@ -150,12 +150,8 @@ client.unload = command => {
 async function yt_sarkibulma(sarki_string){//youtube string ile şarki bulma
   return new Promise(function(resolve, reject) {
     ytsr.getFilters('github').then(async (filters1) => {
-      const filter1 = filters1.get('Type').find(o => o.name === 'Video');
-      const filters2 = await ytsr.getFilters(filter1.ref);
-      const filter2 = filters2.get('Duration').find(o => o.name.startsWith('Short'));
       const options = {
         limit: 1,
-        nextpageRef: filter2.ref,
       }
       const searchResults = await ytsr(sarki_string, options);
       if(searchResults.items[0].type == "video"){
