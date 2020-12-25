@@ -1,0 +1,25 @@
+{
+
+    "prefix"        : "!",
+    "sahip"         : "248869104490905601",
+    "token"         : "NjQxNzYxOTY3ODI4MjM4MzM2.XqZHOQ.6hhlw6lBSw83vGCbEE8wt-CvzUY",
+    "client_id"     : "641761967828238336",
+    "dbl_token"     : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0MTc2MTk2NzgyODIzODMzNiIsImJvdCI6dHJ1ZSwiaWF0IjoxNTg4MzQxNjkwfQ.IEf8HG1k5QEkUEgVW52z0AC_Dj4yD1AnhxKMG8jR5Fs",
+    "dbl_on/off"    : "off", 
+    "surum"         : "1.1.1",
+    "GOOGLE_API_KEY": "AIzaSyBFLjyeJXKYx4log2u-oQvJYTDHB0XEsTE" ,
+    "bot_ismi"      : "Santi",
+    "bot_site"      : "Santi Bot",
+    "bot_davet"     : "https://discordapp.com/oauth2/authorize?client_id=641761967828238336&scope=bot&permissions=2134207679",
+    "bot_resim"     :"https://i.hizliresim.com/bsHzis.png",
+    "connection":{
+      "host"          : "localhost",
+      "user"          : "root",
+      "password"      : "",
+      "database"      : "dc_bot"
+      },
+    "spotify_id"    : "8d0a200ee66c4235a7307534c4afccf5",
+    "spotify_secret" : "012279083788407480ae717e05cc7c0e",
+    "spotify_token":"BQBL7det3U-Ec0RN9uecMXxZuJ5-7J3BeUS1V_ySksxd0zSBFSf4c6Qd353JxOGMNtbLreRpTxkkajnAyt_bf8ZlmiPqzasWtMy73e37IxT8wUrfcxJJo5HEMHNN-lnlMtRUt_ohVs5Kdax4g9YEcAg_N6BP5hbDc159G1ooC-ZuXfQ38X8W4a_dSHmhUyLla5k8rnvU7LUe3OkPISa8rvg4jcLRTmIneEJK-4C4guoYpE1c61_3HpyMAZUX3ULZcUnkpfLjRCd9lZfiD-Q",
+    "kufur_fitre"       : ["oç", "amk", "ananı sikiyim", "ananıskm", "piç", "amk", "amsk", "sikim", "sikiyim", "orospu çocuğu", "piç kurusu", "kahpe", "orospu", "şerefsiz", "sik", "yarrak", "am", "amcık", "amık", "yarram", "sikimi ye", "mk", "mq", "aq", "ak", "amq"]
+  }
