@@ -132,7 +132,7 @@
     "uyarı1.2" : "command.",
     "uyarı2.1" : "Your information has been saved! Now you can only query your statistics with the",
     "uyarı2.2" : "command.",
-    "uyarı3"  : "No player found! For example;",
+    "uyarı3"  : "No player found or access to data is denied due to new privacy rules. Please enter https://profile.callofduty.com/cod/prefs and update privacy settings! Correct usage;",
     "uyarı4.1" : "Your record was not found. To save your profile;",
     "uyarı4.2" : "For example;",
     "uyarı5.1" : "Call of Duty Warzone automatic role system has been disabled. To reactivate;",
