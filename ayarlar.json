@@ -14,8 +14,8 @@
     "bot_resim"     :"https://i.hizliresim.com/bsHzis.png",
     "connection":{
       "host"          : "localhost",
-      "user"          : "raphaelsanti",
-      "password"      : "Naberkanki3131.!",
+      "user"          : "root",
+      "password"      : "",
       "database"      : "dc_bot"
       },
     "spotify_id"    : "8d0a200ee66c4235a7307534c4afccf5",

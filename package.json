@@ -3,7 +3,7 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "@discordjs/uws": "^10.149.0",
-    "call-of-duty-api": "^1.3.0",
+    "call-of-duty-api": "^1.3.1",
     "cat-names": "^2.0.0",
     "chalk": "^2.4.2",
     "chance": "^1.1.3",
