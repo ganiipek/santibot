@@ -36,6 +36,8 @@ const log = message => {
 };
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
+
+
 fs.readdir('./komutlar/', (err, files) => {
   if (err) console.error(err);
   log(`${files.length} komut yüklenecek.`);
@@ -46,8 +48,15 @@ fs.readdir('./komutlar/', (err, files) => {
     props.conf.aliases.forEach(alias => {
       client.aliases.set(alias, props.help.name);
     });
+    
+    client.api.applications(ayarlar.client_id).commands.post({data: {
+      name: props.help.name,
+      description: props.help.description
+    }})
+
   });
 });
+
 
 client.on('ready', () => {
   const activities_list = [
@@ -1188,3 +1197,4 @@ client.on('messageUpdate', (oldMessage, newMessage) => { //ayar_modlog
  })
 
 client.login(ayarlar.token); // Bu her zaman en altta kalsın
+

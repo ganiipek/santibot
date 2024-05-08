@@ -1,6 +1,6 @@
 {
 
-    "prefix"        : "!",
+    "prefix"        : "/",
     "sahip"         : "248869104490905601",
     "token"         : "NjQxNzYxOTY3ODI4MjM4MzM2.XqZHOQ.6hhlw6lBSw83vGCbEE8wt-CvzUY",
     "client_id"     : "641761967828238336",
@@ -13,9 +13,9 @@
     "bot_davet"     : "https://discordapp.com/oauth2/authorize?client_id=641761967828238336&scope=bot&permissions=2134207679",
     "bot_resim"     :"https://i.hizliresim.com/bsHzis.png",
     "connection":{
-      "host"          : "localhost",
-      "user"          : "raphaelsanti",
-      "password"      : "Naberkanki3131.!",
+      "host"          : "198.244.179.150",
+      "user"          : "dc_bot",
+      "password"      : "Aliveli4950.",
       "database"      : "dc_bot"
       },
     "spotify_id"    : "8d0a200ee66c4235a7307534c4afccf5",
